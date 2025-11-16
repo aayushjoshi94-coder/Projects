@@ -20,7 +20,7 @@ I'm a strategic data science leader with 5+ years of experience transforming com
 - Created **Fraud Detection System** using Gen AI with 92% accuracy, preventing $100K+ losses
 - Delivered **Rs 2.31 Crore annual savings** through predictive analytics in manufacturing
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **AI & ML**: LangChain • OpenAI APIs • Hugging Face • RAG • Prompt Engineering • NLP • Computer Vision
 

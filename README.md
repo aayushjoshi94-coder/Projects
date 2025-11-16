@@ -39,7 +39,7 @@ I'm a strategic data science leader with 5+ years of experience transforming com
 - **NLP Sentiment Pipeline**: RoBERTa-based system reducing feedback processing time by 71%
 - **Customer Segmentation Models**: Factor Analysis & PCA improving campaign conversion by 32%
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
 - **MBA in Big Data Analytics** - Goa Institute of Management
 - **B.E. in Mechanical Engineering** - Amiraj College of Engineering & Technology

@@ -12,7 +12,7 @@ I'm a strategic data science leader with 5+ years of experience transforming com
 - **Manage Cross-Functional Teams**: Leading 4-6 data scientists and analysts, delivering $200K+ project portfolios with 98%+ on-time delivery
 - **Bridge Business & Technology**: Translating technical solutions into C-suite presentations and actionable business strategies
 
-### 💼 Professional Highlights
+### Professional Highlights
 
 - **Client Excellence Award** for delivering GenAI solution achieving 80% reduction in content generation time
 - Built **Marketing Mix Model** analyzing $10M+ spend, improving ROAS by 18%
@@ -48,16 +48,16 @@ I'm a strategic data science leader with 5+ years of experience transforming com
 
 ### Beyond Code
 
-- 🥋 State-Level Wrestling Champion & National Finalist
-- 🎖️ NCC 'C' Certificate - Airforce Wing
-- 🎤 Core Organizer - UG TechFest (2000+ participants, Rs 5 Lakh budget)
-- 💪 Initiated Women's Self-Defense Workshop (100+ participants)
+- State-Level Wrestling Champion & National Finalist
+- NCC 'C' Certificate - Airforce Wing
+- Core Organizer - UG TechFest (2000+ participants, Rs 5 Lakh budget)
+- Initiated Women's Self-Defense Workshop (100+ participants)
 
-### 📫 Let's Connect
+### Let's Connect
 
 - Email: aayush.joshi94@gmail.com
-- Location: Mumbai, India
-- LinkedIn: [Connect with me](your-linkedin-url)
+- Location: Ahmedabad, India
+- LinkedIn: https://www.linkedin.com/in/aayush-joshi-185448b9/
 
 ### Philosophy
 
@@ -67,4 +67,4 @@ I believe in building AI solutions that don't just showcase technical prowess bu
 
 ---
 
-⭐️ From [aayushjoshi94](https://github.com/aayushjoshi94)
+From [aayushjoshi94](https://github.com/aayushjoshi94)
